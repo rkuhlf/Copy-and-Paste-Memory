@@ -18,5 +18,8 @@
         "activeTab",
         "storage",
         "tabs"
-    ]
+    ],
+    "icons": {
+    "128": "icon.png"
+  }
 }

@@ -1,0 +1,15 @@
+body {
+  margin: 10px;
+  width: 500px;
+  height: 500px;
+  font-family: 'Roboto Slab', serif;
+}
+
+.note {
+  font-size: 20px;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+}
